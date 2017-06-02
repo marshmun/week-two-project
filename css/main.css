@@ -1,0 +1,46 @@
+html {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
+
+nav img {
+    height: 82%;
+    width: 82%;
+    margin: 8% 0 0 6%;
+}
+
+ul {
+    padding: 0;
+}
+
+nav li {
+    background-color: #7DDFE8;
+    color: white;
+    list-style: none;
+    text-align: center;
+}
+
+li a {
+    color: white;
+}
+
+.nav-bar {
+    display: flex;
+}
+
+.home {
+    background-color: #00A5BF;
+}
+
+.cal {
+    background-color: #00B7D3;
+}
+
+#logo {
+    background-color: #F5005B;
+    width: 18%;
+    height: 7rem;
+}
