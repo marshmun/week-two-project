@@ -30,10 +30,19 @@ nav li {
 li a {
     color: white;
     margin: 5%;
+    text-decoration: none;
 }
 
-.everything {
+h2 {
+    margin-left: 1rem;
+}
+
+.majority {
     margin: 1rem;
+}
+
+.second-majority {
+    background-color: #0B1942;
 }
 
 .topCap {
@@ -53,8 +62,29 @@ li a {
     background-color: #00B7D3;
 }
 
+.join {
+    background-color: #00D5E7;
+}
+
+.feature {
+    background-color: #E2E2E2;
+}
+
 #logo {
     background-color: #F5005B;
     width: 36%;
     height: 7rem;
+}
+
+.btm {
+    margin: 1rem;
+}
+
+.feature {
+    display: flex;
+}
+
+.rashomon img {
+    height: 14rem;
+    margin: 1rem 0 0 1rem;
 }
