@@ -68,6 +68,8 @@ h2 {
 
 .feature {
     background-color: #E2E2E2;
+    display: flex;
+    padding-bottom: 1rem;
 }
 
 #logo {
@@ -80,11 +82,6 @@ h2 {
     margin: 1rem;
 }
 
-.feature {
-    display: flex;
-    /*flex: 1 1 50%;*/
-}
-
 .rashomon img {
     height: 14rem;
     margin: 1rem 0 0 1rem;
@@ -95,5 +92,21 @@ h2 {
 }
 
 .information {
-    flex: 1 1 50%
+    flex: 1 1 50%;
+    padding-left: 10%;
+}
+
+.featureTwo {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #E2E2E2;
+    margin: 1.5rem 0 0 0;
+}
+
+.featureTwo img {
+    height: 14rem;
+}
+
+.poster {
+    margin: 1rem 0 0 1rem;
 }
