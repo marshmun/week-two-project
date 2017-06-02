@@ -32,6 +32,15 @@ li a {
     margin: 5%;
 }
 
+.everything {
+    margin: 1rem;
+}
+
+.topCap {
+    background-color: #0B1942;
+    color: #FFFFFF;
+}
+
 .nav-bar {
     display: flex;
 }
