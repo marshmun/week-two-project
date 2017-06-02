@@ -43,6 +43,7 @@ h2 {
 
 .second-majority {
     background-color: #0B1942;
+    padding-bottom: 2rem;
 }
 
 .topCap {
@@ -79,7 +80,7 @@ h2 {
 }
 
 .btm {
-    margin: 1rem;
+    margin: 1rem 1rem 0rem 1rem;
 }
 
 .rashomon img {
