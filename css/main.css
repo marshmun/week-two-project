@@ -141,9 +141,11 @@ topCap a {
     }
     nav li {
         width: 6rem;
+        padding-top: 3rem;
     }
     #bot {
         width: 62%;
+        text-align: right;
     }
     .topRow {
         display: flex;
@@ -160,6 +162,30 @@ topCap a {
         flex: 1 1 30%;
         margin-left: 1rem;
     }
+    .rashomon img {
+        height: 25rem;
+    }
 }
 
-@media (min-width: 769px) {}
+@media (min-width: 769px) {
+    html {
+        background-color: black;
+    }
+    body {
+        width: 1280px;
+        margin: auto;
+        background-color: #FFFFFF;
+    }
+    .btm {
+        display: flex;
+    }
+    .feature {
+        flex: 1 1 50%;
+    }
+    .featureTwo {
+        flex: 1 1 50%;
+    }
+    .rashomon img {
+        height: 15rem;
+    }
+}
