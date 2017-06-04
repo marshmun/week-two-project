@@ -159,6 +159,8 @@ topCap a {
 .profilePic img {
     border-radius: 22rem;
     border: 1px;
+    height: 23rem;
+    margin: 2rem 0;
 }
 
 #meet {
