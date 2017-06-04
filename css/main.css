@@ -107,6 +107,11 @@ h2 {
 
 .featureTwo a {
     padding-top: 3px;
+    color: #00B7D3;
+}
+
+topCap a {
+    color: #00B7D3;
 }
 
 .featureTwo img {
@@ -119,4 +124,8 @@ h2 {
 
 #up {
     padding-top: 1rem;
+}
+
+#bot {
+    padding: 2rem 0;
 }
