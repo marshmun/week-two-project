@@ -156,6 +156,11 @@ topCap a {
     font-size: x-small;
 }
 
+.profilePic img {
+    border-radius: 22rem;
+    border: 1px;
+}
+
 #meet {
     margin-left: 1rem;
 }
