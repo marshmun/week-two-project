@@ -95,6 +95,7 @@ h2 {
 .information {
     flex: 1 1 50%;
     padding-left: 10%;
+    padding-top: 1rem;
 }
 
 .featureTwo {
@@ -104,10 +105,18 @@ h2 {
     margin: 1.5rem 0 0 0;
 }
 
+.featureTwo a {
+    padding-top: 3px;
+}
+
 .featureTwo img {
     height: 14rem;
 }
 
 .poster {
     margin: 1rem 0 0 1rem;
+}
+
+#up {
+    padding-top: 1rem;
 }
