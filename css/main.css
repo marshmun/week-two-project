@@ -129,3 +129,37 @@ topCap a {
 #bot {
     padding: 2rem 0;
 }
+
+@media (min-width:545px) {
+    #logo {
+        width: 18%;
+    }
+    nav ul {
+        display: flex;
+        height: 7rem;
+        background-color: #7DDFE8;
+    }
+    nav li {
+        width: 6rem;
+    }
+    #bot {
+        width: 62%;
+    }
+    .topRow {
+        display: flex;
+    }
+    .first {
+        flex: 1 1 30%;
+        margin-right: 1rem;
+    }
+    .second {
+        flex: 1 1 30%;
+        margin: 0 1rem;
+    }
+    .third {
+        flex: 1 1 30%;
+        margin-left: 1rem;
+    }
+}
+
+@media (min-width: 769px) {}
