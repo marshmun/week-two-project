@@ -133,6 +133,7 @@ topCap a {
     flex-wrap: wrap;
     background-color: #0B1942;
     padding-bottom: 2rem;
+    list-style: none;
 }
 
 .calender li {
@@ -198,6 +199,14 @@ topCap a {
     }
     .rashomon img {
         height: 25rem;
+    }
+    .calender li {
+        width: 5rem;
+        height: 5rem;
+    }
+    .calender div {
+        height: 31%;
+        width: 27%;
     }
 }
 
