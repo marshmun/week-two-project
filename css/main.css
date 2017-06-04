@@ -181,11 +181,21 @@ topCap a {
     }
     .feature {
         flex: 1 1 50%;
+        height: 18rem;
     }
     .featureTwo {
         flex: 1 1 50%;
     }
     .rashomon img {
-        height: 15rem;
+        height: 19rem;
+    }
+    .featureTwo {
+        margin-top: 0;
+    }
+    .featureTwo img {
+        height: 19rem;
+    }
+    #logo {
+        width: 9rem;
     }
 }
