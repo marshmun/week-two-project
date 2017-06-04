@@ -156,6 +156,10 @@ topCap a {
     font-size: x-small;
 }
 
+#meet {
+    margin-left: 1rem;
+}
+
 #up {
     padding-top: 1rem;
     padding-left: 1rem;
@@ -247,5 +251,13 @@ topCap a {
     }
     #logo {
         width: 9rem;
+    }
+    .calender li {
+        height: 8rem;
+        width: 8rem;
+    }
+    .calender div {
+        height: 27%;
+        font-size: larger;
     }
 }
