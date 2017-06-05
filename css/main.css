@@ -358,6 +358,9 @@ topCap a {
     .bt {
         margin-left: 6rem;
     }
+    .checP {
+        margin-right: 48rem;
+    }
     #name {
         width: 185%;
     }
