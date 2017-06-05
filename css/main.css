@@ -241,9 +241,21 @@ topCap a {
     .topRow {
         display: flex;
     }
+    .topped {
+        display: flex;
+    }
     .first {
         flex: 1 1 30%;
         margin-right: 1rem;
+    }
+    .profilePic img {
+        height: 18rem;
+    }
+    .profilePic {
+        flex: 1 1 50%;
+    }
+    .inputs {
+        flex: 1 1 50%;
     }
     .second {
         flex: 1 1 30%;
