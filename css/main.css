@@ -213,6 +213,14 @@ topCap a {
     padding: 2rem 0;
 }
 
+#submit {
+    background-color: #F5005B;
+    color: #FFFFFF;
+    height: 3rem;
+    width: 7rem;
+    margin-bottom: 2rem;
+}
+
 @media (min-width:545px) {
     #logo {
         width: 18%;
