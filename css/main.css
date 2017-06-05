@@ -336,4 +336,13 @@ topCap a {
         height: 27%;
         font-size: larger;
     }
+    .chec {
+        flex: 1 1 30%;
+    }
+    .text {
+        margin: 1rem;
+    }
+    textarea {
+        width: 69%;
+    }
 }
