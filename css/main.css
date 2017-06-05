@@ -197,7 +197,7 @@ topCap a {
 
 #confirm-password {
     width: 100%;
-    height: 1.5;
+    height: 1.5rem;
 }
 
 #meet {
@@ -344,5 +344,30 @@ topCap a {
     }
     textarea {
         width: 69%;
+    }
+    .inputs {
+        display: flex;
+    }
+    .tp {
+        margin: 0;
+        padding: 0 35px 0;
+    }
+    .profilePic {
+        flex: 1 1 25%;
+    }
+    .bt {
+        margin-left: 6rem;
+    }
+    #name {
+        width: 185%;
+    }
+    #password {
+        width: 185%;
+    }
+    #email {
+        width: 185%;
+    }
+    #confirm-password {
+        width: 185%;
     }
 }
