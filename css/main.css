@@ -256,6 +256,7 @@ topCap a {
     }
     .inputs {
         flex: 1 1 50%;
+        margin-left: 1rem;
     }
     .second {
         flex: 1 1 30%;
@@ -275,6 +276,17 @@ topCap a {
     .calender div {
         height: 31%;
         width: 27%;
+    }
+    .tp {
+        margin-bottom: 5rem;
+        padding: 1rem 0;
+    }
+    .checkss {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .chec {
+        flex: 1 1 50%;
     }
 }
 
